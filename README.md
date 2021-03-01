@@ -5,4 +5,4 @@ Write the sentences (click "Analizuj tekst") or word(click "generuj znaczniki" -
 
 At the start looks like this
 <img src=“https://github.com/zyechu/Systemy_wyszukiwawcze/blob/master/projekt_streamlit.png2”>
-![alt text](https://github.com/zyechu/Systemy_wyszukiwawcze/blob/master/projekt_streamlit.png2)
+![plot](https://github.com/zyechu/Systemy_wyszukiwawcze/blob/master/projekt_streamlit.png2)
