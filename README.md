@@ -5,4 +5,6 @@ Write the sentences (click "Analizuj tekst") or word(click "generuj znaczniki" -
 
 At the start looks like this
 
+![](projekt_streamlit.png)
+
 ![github-small](https://github.com/zyechu/Systemy_wyszukiwawcze/blob/master/projekt_streamlit.png2)
